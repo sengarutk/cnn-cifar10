@@ -1,4 +1,4 @@
-# Research Notebook — Utkarsh Sengar  
+# CNN-CIFAR10 - Research Notebook  
 Focus: Efficient Deep Learning Systems, LLM Inference, Multimodal Models
 
 This notebook records my **thinking process, experiments, bugs, ablations, and design decisions**.
